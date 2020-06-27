@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Noto Sans Arabic";
+    src: url('../fonts/SemiBold.eot');
+    src: url('../fonts/SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SemiBold.woff2') format('woff2'),
+        url('../fonts/SemiBold.woff') format('woff'),
+        url('../fonts/SemiBold.ttf') format('truetype'),
+        url('../fonts/SemiBold.svg#SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}

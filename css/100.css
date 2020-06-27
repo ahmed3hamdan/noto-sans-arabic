@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Noto Sans Arabic";
+    src: url("../fonts/Thin.eot");
+    src: url("../fonts/Thin.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Thin.woff2") format("woff2"),
+        url("../fonts/Thin.woff") format("woff"),
+        url("../fonts/Thin.ttf") format("truetype"),
+        url("../fonts/Thin.svg#Thin") format("svg");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}

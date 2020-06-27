@@ -1,0 +1,24 @@
+{
+  "name": "noto-sans-arabic",
+  "version": "1.0.1",
+  "description": "Noto Sans Arabic Font Face",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed3hamdan/noto-sans-arabic.git"
+  },
+  "keywords": [
+    "font",
+    "fontface",
+    "arabic",
+    "noto-sans"
+  ],
+  "author": "Ahmed Hamdan",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/ahmed3hamdan/noto-sans-arabic/issues"
+  },
+  "files": [
+    "css/*",
+    "fonts/*"
+  ]
+}

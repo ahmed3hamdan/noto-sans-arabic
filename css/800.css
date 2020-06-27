@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Noto Sans Arabic";
+    src: url('../fonts/ExtraBold.eot');
+    src: url('../fonts/ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ExtraBold.woff2') format('woff2'),
+        url('../fonts/ExtraBold.woff') format('woff'),
+        url('../fonts/ExtraBold.ttf') format('truetype'),
+        url('../fonts/ExtraBold.svg#ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}

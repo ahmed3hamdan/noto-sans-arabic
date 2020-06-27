@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Noto Sans Arabic";
+    src: url('../fonts/ExtraLight.eot');
+    src: url('../fonts/ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ExtraLight.woff2') format('woff2'),
+        url('../fonts/ExtraLight.woff') format('woff'),
+        url('../fonts/ExtraLight.ttf') format('truetype'),
+        url('../fonts/ExtraLight.svg#ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}

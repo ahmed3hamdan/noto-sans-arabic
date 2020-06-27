@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Noto Sans Arabic";
+    src: url('../fonts/Medium.eot');
+    src: url('../fonts/Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Medium.woff2') format('woff2'),
+        url('../fonts/Medium.woff') format('woff'),
+        url('../fonts/Medium.ttf') format('truetype'),
+        url('../fonts/Medium.svg#Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

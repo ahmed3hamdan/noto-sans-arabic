@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Noto Sans Arabic";
+    src: url('../fonts/Light.eot');
+    src: url('../fonts/Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Light.woff2') format('woff2'),
+        url('../fonts/Light.woff') format('woff'),
+        url('../fonts/Light.ttf') format('truetype'),
+        url('../fonts/Light.svg#Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
